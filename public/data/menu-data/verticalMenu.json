@@ -1,0 +1,18 @@
+{
+    "menu": [{
+            "url": "/admin",
+            "name": "Home",
+            "icon": "home",
+            "slug": "home"
+        },
+        {
+            "url": "/admin/category",
+            "name": "Categories",
+            "icon": "pie-chart",
+            "slug": "category"
+        }
+
+
+
+    ]
+}
